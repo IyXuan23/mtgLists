@@ -15,7 +15,7 @@ export default function Home() {
           {/*was styles.shape before changed to tailwind */}
           <div className='h-0 w-0 border-b-[30px] border-l-[20px] border-r-[20px] border-transparent border-b-black' />
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}>
-            <strong>Welcome to IyXuan's Mess.</strong> Click this link for the {' '}
+            <strong>Welcome to IyXuan&apos;s Mess.</strong> Click this link for the {' '}
             <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" className='text-blue-500 underline' target='_blank'>
               Single Hot MTG Cards in your Area
             </a>

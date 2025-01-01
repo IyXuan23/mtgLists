@@ -8,7 +8,7 @@ export default function WebsiteLogo() {
                 src='/mainMenu/gontiCannyAcquisitor.svg'
                 className='h-24 w-24 rounded-full outline outline-4 outline-white-300'>
             </img>
-            <p className='pl-2 text-[32px] '>IyXuan's Mess</p>
+            <p className='pl-2 text-[32px] '>IyXuan&apos;s Mess</p>
         </div>
     );
 }
