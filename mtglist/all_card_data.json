@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Gonti, Canny Acquisitor",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/3/03a7e79f-625a-49ac-9cb1-e1fe5f51f5a0.jpg?1714110365",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/3/03a7e79f-625a-49ac-9cb1-e1fe5f51f5a0.jpg?1714110365",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Aetherborn Rogue"
+  },
+  {
+    "name": "Forest",
+    "small_image_uri": "https://cards.scryfall.io/small/front/b/6/b69adddd-3626-45d6-8100-26cf1f314d00.jpg?1733917948",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/b/6/b69adddd-3626-45d6-8100-26cf1f314d00.jpg?1733917948",
+    "cmc": 0,
+    "type_line": "Basic Land — Forest"
+  },
+  {
+    "name": "Llanowar Wastes",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/3/83837c14-9508-4590-aef6-40a16211072f.jpg?1726285449",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/3/83837c14-9508-4590-aef6-40a16211072f.jpg?1726285449",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Fellwar Stone",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/d/8d73a3c2-ccff-49b6-8e94-7f7d6ad56898.jpg?1726285298",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/d/8d73a3c2-ccff-49b6-8e94-7f7d6ad56898.jpg?1726285298",
+    "cmc": 2,
+    "type_line": "Artifact"
+  },
+  {
+    "name": "Yavimaya Coast",
+    "small_image_uri": "https://cards.scryfall.io/small/front/e/4/e429d25c-475c-4c49-9d84-205fdbd9d5e7.jpg?1726285596",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/e/4/e429d25c-475c-4c49-9d84-205fdbd9d5e7.jpg?1726285596",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Arcane Signet",
+    "small_image_uri": "https://cards.scryfall.io/small/front/2/1/211a1d86-7257-4621-ae05-c2b235c063f0.jpg?1726284514",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/2/1/211a1d86-7257-4621-ae05-c2b235c063f0.jpg?1726284514",
+    "cmc": 2,
+    "type_line": "Artifact"
+  },
+  {
+    "name": "Necroblossom Snarl",
+    "small_image_uri": "https://cards.scryfall.io/small/front/d/d/ddf6ece8-d7c8-43a7-a318-f6eac2932b15.jpg?1726285464",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/d/d/ddf6ece8-d7c8-43a7-a318-f6eac2932b15.jpg?1726285464",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Swamp",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/4/040d064e-b023-4750-afeb-1f58e36bc4ab.jpg?1733917928",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/4/040d064e-b023-4750-afeb-1f58e36bc4ab.jpg?1733917928",
+    "cmc": 0,
+    "type_line": "Basic Land — Swamp"
+  },
+  {
+    "name": "Hinterland Harbor",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/6/5675b928-33d5-4abf-a732-e36a5c7c4f86.jpg?1726285441",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/6/5675b928-33d5-4abf-a732-e36a5c7c4f86.jpg?1726285441",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Orochi Soul-Reaver",
+    "small_image_uri": "https://cards.scryfall.io/small/front/e/c/ec8f372a-d8c7-4f5d-a91d-ec7e5eb17104.jpg?1712353817",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/e/c/ec8f372a-d8c7-4f5d-a91d-ec7e5eb17104.jpg?1712353817",
+    "cmc": 6,
+    "type_line": "Creature — Snake Ninja Rogue"
+  },
+  {
+    "name": "Twilight Mire",
+    "small_image_uri": "https://cards.scryfall.io/small/front/3/9/3969ef6a-4bd8-4d9f-8c86-2322bd94a71a.jpg?1726285571",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/3/9/3969ef6a-4bd8-4d9f-8c86-2322bd94a71a.jpg?1726285571",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Ghostly Pilferer",
+    "small_image_uri": "https://cards.scryfall.io/small/front/2/f/2f6a3605-950d-488b-8e4f-e2c339ef48dc.jpg?1712354148",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/2/f/2f6a3605-950d-488b-8e4f-e2c339ef48dc.jpg?1712354148",
+    "cmc": 2,
+    "type_line": "Creature — Spirit Rogue"
+  },
+  {
+    "name": "Commander's Sphere",
+    "small_image_uri": "https://cards.scryfall.io/small/front/a/4/a4ce6b63-0b38-4582-94d5-c733af087038.jpg?1726285297",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/a/4/a4ce6b63-0b38-4582-94d5-c733af087038.jpg?1726285297",
+    "cmc": 3,
+    "type_line": "Artifact"
+  },
+  {
+    "name": "Stolen Goods",
+    "small_image_uri": "https://cards.scryfall.io/small/front/4/9/495c8498-a446-4617-ae5e-f09ef63c7cb7.jpg?1712354213",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/4/9/495c8498-a446-4617-ae5e-f09ef63c7cb7.jpg?1712354213",
+    "cmc": 4,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Mercurial Spelldancer",
+    "small_image_uri": "https://cards.scryfall.io/small/front/c/f/cf28c75d-1fb3-44cc-b651-5b2830e22add.jpg?1675956977",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/c/f/cf28c75d-1fb3-44cc-b651-5b2830e22add.jpg?1675956977",
+    "cmc": 2,
+    "type_line": "Creature — Phyrexian Rogue"
+  },
+  {
+    "name": "Edric, Spymaster of Trest",
+    "small_image_uri": "https://cards.scryfall.io/small/front/2/2/22d6a4c9-4bdd-4e70-8481-95260e6aa7ab.jpg?1712354689",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/2/2/22d6a4c9-4bdd-4e70-8481-95260e6aa7ab.jpg?1712354689",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Elf Rogue"
+  },
+  {
+    "name": "Dream-Thief's Bandana",
+    "small_image_uri": "https://cards.scryfall.io/small/front/d/c/dccdb6cc-dfad-4c7e-9550-3dd12f3e9c79.jpg?1712353895",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/d/c/dccdb6cc-dfad-4c7e-9550-3dd12f3e9c79.jpg?1712353895",
+    "cmc": 2,
+    "type_line": "Artifact — Equipment"
+  },
+  {
+    "name": "Malcolm, Alluring Scoundrel",
+    "small_image_uri": "https://cards.scryfall.io/small/front/1/9/19d6834d-afa3-4747-a62d-0654f4d9729f.jpg?1699043813",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/1/9/19d6834d-afa3-4747-a62d-0654f4d9729f.jpg?1699043813",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Siren Pirate"
+  },
+  {
+    "name": "Rampant Growth",
+    "small_image_uri": "https://cards.scryfall.io/small/front/4/6/4614738e-64f8-4ce4-8fbe-add2119c2eef.jpg?1726285099",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/4/6/4614738e-64f8-4ce4-8fbe-add2119c2eef.jpg?1726285099",
+    "cmc": 2,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Brainstealer Dragon",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/8/884d4eea-77c0-4b78-bb83-3f855cc77298.jpg?1712354262",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/8/884d4eea-77c0-4b78-bb83-3f855cc77298.jpg?1712354262",
+    "cmc": 7,
+    "type_line": "Creature — Dragon Horror"
+  },
+  {
+    "name": "Island",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/a/5a8e9b9e-4947-4b6a-b21b-6fe009760fc5.jpg?1733917916",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/a/5a8e9b9e-4947-4b6a-b21b-6fe009760fc5.jpg?1733917916",
+    "cmc": 0,
+    "type_line": "Basic Land — Island"
+  },
+  {
+    "name": "Gonti, Lord of Luxury",
+    "small_image_uri": "https://cards.scryfall.io/small/front/f/b/fbbb3aef-af1f-4b77-b7d6-64cfd706a9d9.jpg?1712393017",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/f/b/fbbb3aef-af1f-4b77-b7d6-64cfd706a9d9.jpg?1712393017",
+    "cmc": 4,
+    "type_line": "Legendary Creature — Aetherborn Rogue"
+  },
+  {
+    "name": "Thief of Sanity",
+    "small_image_uri": "https://cards.scryfall.io/small/front/9/4/94946d6c-1edb-46e9-a5ae-0ca2a016a7cd.jpg?1712354786",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/9/4/94946d6c-1edb-46e9-a5ae-0ca2a016a7cd.jpg?1712354786",
+    "cmc": 3,
+    "type_line": "Creature — Specter"
+  },
+  {
+    "name": "Foreboding Landscape",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/7/57fb0fa7-0c5c-4a75-9461-c51403c30282.jpg?1717012992",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/7/57fb0fa7-0c5c-4a75-9461-c51403c30282.jpg?1717012992",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Drowned Catacomb",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg?1712354997",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/7/07b4a6dd-0e2f-43be-93c6-7578c34a9443.jpg?1712354997",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Exotic Orchard",
+    "small_image_uri": "https://cards.scryfall.io/small/front/a/0/a0e58240-0a3e-4abf-b296-b97045de4677.jpg?1726285408",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/a/0/a0e58240-0a3e-4abf-b296-b97045de4677.jpg?1726285408",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Vineglimmer Snarl",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/2/72151f2e-3980-466e-9741-6f7de8d898e7.jpg?1726285582",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/2/72151f2e-3980-466e-9741-6f7de8d898e7.jpg?1726285582",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Rogue's Passage",
+    "small_image_uri": "https://cards.scryfall.io/small/front/a/2/a2a424ea-ef32-4ac5-8f8c-3ea1839f01d4.jpg?1730489588",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/a/2/a2a424ea-ef32-4ac5-8f8c-3ea1839f01d4.jpg?1730489588",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Changeling Outcast",
+    "small_image_uri": "https://cards.scryfall.io/small/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.jpg?1712354266",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/a/b/ab499df5-ed76-43ad-81b3-70afd0487ccd.jpg?1712354266",
+    "cmc": 1,
+    "type_line": "Creature — Shapeshifter"
+  },
+  {
+    "name": "Heartless Conscription",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/2/52fc4862-b57b-42d7-be8b-d9915a0bb4fd.jpg?1712353813",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/2/52fc4862-b57b-42d7-be8b-d9915a0bb4fd.jpg?1712353813",
+    "cmc": 8,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Underground River",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/e/5e50c8d5-6b22-4fc6-87ea-3d7d77ced17f.jpg?1726285574",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/e/5e50c8d5-6b22-4fc6-87ea-3d7d77ced17f.jpg?1726285574",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Villainous Wealth",
+    "small_image_uri": "https://cards.scryfall.io/small/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/a/4/a467072c-99d9-4013-8d28-607a06cf50fe.jpg?1712354811",
+    "cmc": 3,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Temple of Malady",
+    "small_image_uri": "https://cards.scryfall.io/small/front/1/0/10e7d0d5-2329-42a6-b6ff-a5197ba5f1d0.jpg?1730491251",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/1/0/10e7d0d5-2329-42a6-b6ff-a5197ba5f1d0.jpg?1730491251",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Disorienting Choice",
+    "small_image_uri": "https://cards.scryfall.io/small/front/a/7/a756a35d-a630-41a2-8b3d-6f1bafd7409a.jpg?1726284207",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/a/7/a756a35d-a630-41a2-8b3d-6f1bafd7409a.jpg?1726284207",
+    "cmc": 4,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Come Back Wrong",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/2/72ee3b45-aa4e-4c5b-a9e6-608bfbd93f8b.jpg?1726286171",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/2/72ee3b45-aa4e-4c5b-a9e6-608bfbd93f8b.jpg?1726286171",
+    "cmc": 3,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Doc Aurlock, Grizzled Genius",
+    "small_image_uri": "https://cards.scryfall.io/small/front/6/f/6fc27b30-8c8e-434c-a72c-e1d409efc1ae.jpg?1712356080",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/6/f/6fc27b30-8c8e-434c-a72c-e1d409efc1ae.jpg?1712356080",
+    "cmc": 2,
+    "type_line": "Legendary Creature — Bear Druid"
+  },
+  {
+    "name": "Slither Blade",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/5/859e5ca5-c184-47ee-a2ea-8075847f46d9.jpg?1712354211",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/5/859e5ca5-c184-47ee-a2ea-8075847f46d9.jpg?1712354211",
+    "cmc": 1,
+    "type_line": "Creature — Snake Rogue"
+  },
+  {
+    "name": "Coastal Piracy",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/f/0f2c4e43-71b2-4483-ba54-4be1dcffcd5f.jpg?1600713707",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/f/0f2c4e43-71b2-4483-ba54-4be1dcffcd5f.jpg?1600713707",
+    "cmc": 4,
+    "type_line": "Enchantment"
+  },
+  {
+    "name": "Nature's Lore",
+    "small_image_uri": "https://cards.scryfall.io/small/front/f/5/f5615c05-eb1e-4d27-a323-72d643d7c1d8.jpg?1706547171",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/f/5/f5615c05-eb1e-4d27-a323-72d643d7c1d8.jpg?1706547171",
+    "cmc": 2,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Oblivion Sower",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/2/82bc94b5-8c22-4120-87ba-6125c62b271b.jpg?1712354060",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/2/82bc94b5-8c22-4120-87ba-6125c62b271b.jpg?1712354060",
+    "cmc": 6,
+    "type_line": "Creature — Eldrazi"
+  },
+  {
+    "name": "Malleable Impostor",
+    "small_image_uri": "https://cards.scryfall.io/small/front/a/d/ad0fc934-f49d-4607-a52b-aea5c1d5d342.jpg?1692933750",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/a/d/ad0fc934-f49d-4607-a52b-aea5c1d5d342.jpg?1692933750",
+    "cmc": 4,
+    "type_line": "Creature — Faerie Shapeshifter"
+  },
+  {
+    "name": "Predators' Hour",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/5/55ddf977-de2c-4850-8ad1-b8adab1d24ee.jpg?1712354346",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/5/55ddf977-de2c-4850-8ad1-b8adab1d24ee.jpg?1712354346",
+    "cmc": 2,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Nashi, Moon Sage's Scion",
+    "small_image_uri": "https://cards.scryfall.io/small/front/1/e/1e62de3b-6a41-43e3-93ad-9a1e3894be3b.jpg?1712354330",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/1/e/1e62de3b-6a41-43e3-93ad-9a1e3894be3b.jpg?1712354330",
+    "cmc": 3,
+    "type_line": "Legendary Creature — Rat Ninja"
+  },
+  {
+    "name": "The Mimeoplasm",
+    "small_image_uri": "https://cards.scryfall.io/small/front/9/9/998b86f3-e53f-4ebb-b111-6f14577fded1.jpg?1712354748",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/9/9/998b86f3-e53f-4ebb-b111-6f14577fded1.jpg?1712354748",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Ooze"
+  },
+  {
+    "name": "Baleful Mastery",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/7/579e20e7-1395-4a6c-a836-ae3419fc8808.jpg?1712354258",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/7/579e20e7-1395-4a6c-a836-ae3419fc8808.jpg?1712354258",
+    "cmc": 4,
+    "type_line": "Instant"
+  },
+  {
+    "name": "Cold-Eyed Selkie",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/c/8c39dc54-611e-48a8-adba-9cc31afa87d0.jpg?1712354680",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/c/8c39dc54-611e-48a8-adba-9cc31afa87d0.jpg?1712354680",
+    "cmc": 3,
+    "type_line": "Creature — Merfolk Rogue"
+  },
+  {
+    "name": "Arcane Heist",
+    "small_image_uri": "https://cards.scryfall.io/small/front/3/c/3ceb13f4-ac9e-4ddd-9170-545f8d37b87a.jpg?1712353781",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/3/c/3ceb13f4-ac9e-4ddd-9170-545f8d37b87a.jpg?1712353781",
+    "cmc": 4,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Farseek",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/f/7fac6154-fb85-45e5-8c9f-f02d0f1be24e.jpg?1702429553",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/f/7fac6154-fb85-45e5-8c9f-f02d0f1be24e.jpg?1702429553",
+    "cmc": 2,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Felix Five-Boots",
+    "small_image_uri": "https://cards.scryfall.io/small/front/6/8/6800e935-d327-464c-ab88-7c0193827da3.jpg?1717566672",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/6/8/6800e935-d327-464c-ab88-7c0193827da3.jpg?1717566672",
+    "cmc": 5,
+    "type_line": "Legendary Creature — Ooze Rogue"
+  },
+  {
+    "name": "Kodama's Reach",
+    "small_image_uri": "https://cards.scryfall.io/small/front/e/d/eddf5231-7c46-417b-82c3-f6a8ede5ac9c.jpg?1712354581",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/e/d/eddf5231-7c46-417b-82c3-f6a8ede5ac9c.jpg?1712354581",
+    "cmc": 3,
+    "type_line": "Sorcery — Arcane"
+  },
+  {
+    "name": "Invisible Stalker",
+    "small_image_uri": "https://cards.scryfall.io/small/front/1/4/14d265aa-c1d8-4faa-b282-5c273ab725fd.jpg?1604192456",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/1/4/14d265aa-c1d8-4faa-b282-5c273ab725fd.jpg?1604192456",
+    "cmc": 2,
+    "type_line": "Creature — Human Rogue"
+  },
+  {
+    "name": "Opulent Palace",
+    "small_image_uri": "https://cards.scryfall.io/small/front/d/c/dc691e02-c914-468d-8051-de1289171183.jpg?1712355075",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/d/c/dc691e02-c914-468d-8051-de1289171183.jpg?1712355075",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Tasha, the Witch Queen",
+    "small_image_uri": "https://cards.scryfall.io/small/front/b/1/b1c5f679-82d0-4434-9f13-d39ad57282b8.jpg?1674137679",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/b/1/b1c5f679-82d0-4434-9f13-d39ad57282b8.jpg?1674137679",
+    "cmc": 5,
+    "type_line": "Legendary Planeswalker — Tasha"
+  },
+  {
+    "name": "Chromatic Lantern",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/f/8f6448b1-ffc7-43f0-b713-881016ce9485.jpg?1712354852",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/f/8f6448b1-ffc7-43f0-b713-881016ce9485.jpg?1712354852",
+    "cmc": 3,
+    "type_line": "Artifact"
+  },
+  {
+    "name": "Cultivate",
+    "small_image_uri": "https://cards.scryfall.io/small/front/6/8/684063e2-c9a5-4e7c-b702-94e3e114d063.jpg?1726285000",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/6/8/684063e2-c9a5-4e7c-b702-94e3e114d063.jpg?1726285000",
+    "cmc": 3,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Ohran Frostfang",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/6/0693bcd2-8a3d-4dcf-8360-5b9891044dfe.jpg?1712354597",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/6/0693bcd2-8a3d-4dcf-8360-5b9891044dfe.jpg?1712354597",
+    "cmc": 5,
+    "type_line": "Snow Creature — Snake"
+  },
+  {
+    "name": "Triton Shorestalker",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/1/511bff25-3213-42c4-8abd-9eda49f8dc96.jpg?1712354237",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/1/511bff25-3213-42c4-8abd-9eda49f8dc96.jpg?1712354237",
+    "cmc": 1,
+    "type_line": "Creature — Merfolk Rogue"
+  },
+  {
+    "name": "Siphon Insight",
+    "small_image_uri": "https://cards.scryfall.io/small/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.jpg?1712354783",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/2/8/28a6b23f-a854-469a-9b06-119507dd9d42.jpg?1712354783",
+    "cmc": 2,
+    "type_line": "Instant"
+  },
+  {
+    "name": "Savvy Trader",
+    "small_image_uri": "https://cards.scryfall.io/small/front/1/1/118f25cf-faa6-4d60-a156-27bf7aedf7eb.jpg?1712946250",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/1/1/118f25cf-faa6-4d60-a156-27bf7aedf7eb.jpg?1712946250",
+    "cmc": 4,
+    "type_line": "Creature — Human Citizen"
+  },
+  {
+    "name": "Hostage Taker",
+    "small_image_uri": "https://cards.scryfall.io/small/front/c/1/c168af49-acae-45de-8c62-0e6d1006f325.jpg?1712354733",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/c/1/c168af49-acae-45de-8c62-0e6d1006f325.jpg?1712354733",
+    "cmc": 4,
+    "type_line": "Creature — Human Pirate"
+  },
+  {
+    "name": "Thieving Skydiver",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/6/06996ff1-7f57-4e73-940a-a58c4482cadd.jpg?1712354226",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/6/06996ff1-7f57-4e73-940a-a58c4482cadd.jpg?1712354226",
+    "cmc": 2,
+    "type_line": "Creature — Merfolk Rogue"
+  },
+  {
+    "name": "Reconnaissance Mission",
+    "small_image_uri": "https://cards.scryfall.io/small/front/b/2/b2364119-d764-4ef1-86cf-a0b7a5ae1b38.jpg?1641602066",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/b/2/b2364119-d764-4ef1-86cf-a0b7a5ae1b38.jpg?1641602066",
+    "cmc": 4,
+    "type_line": "Enchantment"
+  },
+  {
+    "name": "Temple of Mystery",
+    "small_image_uri": "https://cards.scryfall.io/small/front/b/d/bd581f1d-d8ba-47f9-b10b-b7b6d46239ce.jpg?1730491259",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/b/d/bd581f1d-d8ba-47f9-b10b-b7b6d46239ce.jpg?1730491259",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Thieving Amalgam",
+    "small_image_uri": "https://cards.scryfall.io/small/front/c/6/c6225b97-396f-4969-954c-f2885da70c1b.jpg?1712354356",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/c/6/c6225b97-396f-4969-954c-f2885da70c1b.jpg?1712354356",
+    "cmc": 7,
+    "type_line": "Creature — Ape Snake"
+  },
+  {
+    "name": "Valgavoth, Terror Eater",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/7/7740ff55-67bb-409e-90f7-2c2c8b8c770a.jpg?1726286296",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/7/7740ff55-67bb-409e-90f7-2c2c8b8c770a.jpg?1726286296",
+    "cmc": 9,
+    "type_line": "Legendary Creature — Elder Demon"
+  },
+  {
+    "name": "Fallen Shinobi",
+    "small_image_uri": "https://cards.scryfall.io/small/front/9/7/979076a7-313f-4227-a4c3-548e86997e0a.jpg?1712354715",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/9/7/979076a7-313f-4227-a4c3-548e86997e0a.jpg?1712354715",
+    "cmc": 5,
+    "type_line": "Creature — Zombie Ninja"
+  },
+  {
+    "name": "Counterspell",
+    "small_image_uri": "https://cards.scryfall.io/small/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1726837907",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/4/f/4f616706-ec97-4923-bb1e-11a69fbaa1f8.jpg?1726837907",
+    "cmc": 2,
+    "type_line": "Instant"
+  },
+  {
+    "name": "Sunken Hollow",
+    "small_image_uri": "https://cards.scryfall.io/small/front/2/6/26b8d839-fb07-4221-8b00-8d3775f52f37.jpg?1712355153",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/2/6/26b8d839-fb07-4221-8b00-8d3775f52f37.jpg?1712355153",
+    "cmc": 0,
+    "type_line": "Land — Island Swamp"
+  },
+  {
+    "name": "Smirking Spelljacker",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/1/01d1e394-1b0c-4b40-ba85-f55973703d41.jpg?1712353792",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/1/01d1e394-1b0c-4b40-ba85-f55973703d41.jpg?1712353792",
+    "cmc": 5,
+    "type_line": "Creature — Djinn Wizard Rogue"
+  },
+  {
+    "name": "Toxic Deluge",
+    "small_image_uri": "https://cards.scryfall.io/small/front/5/a/5aa02b7d-db31-4924-b75e-eb02f332ca3a.jpg?1717013647",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/5/a/5aa02b7d-db31-4924-b75e-eb02f332ca3a.jpg?1717013647",
+    "cmc": 3,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Three Visits",
+    "small_image_uri": "https://cards.scryfall.io/small/front/4/e/4ee4ea37-621f-4ef7-b220-f4da3008e399.jpg?1712354640",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/4/e/4ee4ea37-621f-4ef7-b220-f4da3008e399.jpg?1712354640",
+    "cmc": 2,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Putrefy",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/d/7ddfa0e2-3d26-4f61-ba6f-16bb83c8a58e.jpg?1726284503",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/d/7ddfa0e2-3d26-4f61-ba6f-16bb83c8a58e.jpg?1726284503",
+    "cmc": 3,
+    "type_line": "Instant"
+  },
+  {
+    "name": "Tower Winder",
+    "small_image_uri": "https://cards.scryfall.io/small/front/9/7/97bf6a6a-e377-4f42-84dd-baf6055c0fb1.jpg?1712353877",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/9/7/97bf6a6a-e377-4f42-84dd-baf6055c0fb1.jpg?1712353877",
+    "cmc": 2,
+    "type_line": "Creature — Snake"
+  },
+  {
+    "name": "Baleful Strix",
+    "small_image_uri": "https://cards.scryfall.io/small/front/b/e/be8439e6-f779-49f0-806a-b04995697a6a.jpg?1712354664",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/b/e/be8439e6-f779-49f0-806a-b04995697a6a.jpg?1712354664",
+    "cmc": 2,
+    "type_line": "Artifact Creature — Bird"
+  },
+  {
+    "name": "Thieving Varmint",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/e/8e66d567-9f06-47c1-aa9f-f29ba5e9906a.jpg?1712353822",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/e/8e66d567-9f06-47c1-aa9f-f29ba5e9906a.jpg?1712353822",
+    "cmc": 2,
+    "type_line": "Creature — Varmint"
+  },
+  {
+    "name": "Shadowmage Infiltrator",
+    "small_image_uri": "https://cards.scryfall.io/small/front/2/a/2ac920d7-013f-40ad-b79f-0bb59062d42a.jpg?1712354775",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/2/a/2ac920d7-013f-40ad-b79f-0bb59062d42a.jpg?1712354775",
+    "cmc": 3,
+    "type_line": "Creature — Human Wizard"
+  },
+  {
+    "name": "Flooded Grove",
+    "small_image_uri": "https://cards.scryfall.io/small/front/c/b/cb739834-810d-4803-845e-bb651f055078.jpg?1726285413",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/c/b/cb739834-810d-4803-845e-bb651f055078.jpg?1726285413",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Silhana Ledgewalker",
+    "small_image_uri": "https://cards.scryfall.io/small/front/2/1/21a2d11e-48b7-4e9a-a574-838cc26c2b17.jpg?1712354625",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/2/1/21a2d11e-48b7-4e9a-a574-838cc26c2b17.jpg?1712354625",
+    "cmc": 2,
+    "type_line": "Creature — Elf Rogue"
+  },
+  {
+    "name": "Darkslick Shores",
+    "small_image_uri": "https://cards.scryfall.io/small/front/c/4/c49305d1-ac95-43ea-b02d-c3c7205bcda6.jpg?1712354960",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/c/4/c49305d1-ac95-43ea-b02d-c3c7205bcda6.jpg?1712354960",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Reliquary Tower",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/8/78a8c8ed-9afc-4855-bd6a-cf4e2335ecfa.jpg?1726285479",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/8/78a8c8ed-9afc-4855-bd6a-cf4e2335ecfa.jpg?1726285479",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Sol Ring",
+    "small_image_uri": "https://cards.scryfall.io/small/front/8/2/82f1a8a3-7fdb-49a3-9649-b5c0b4755cd5.jpg?1726284526",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/8/2/82f1a8a3-7fdb-49a3-9649-b5c0b4755cd5.jpg?1726284526",
+    "cmc": 1,
+    "type_line": "Artifact"
+  },
+  {
+    "name": "Temple of Deceit",
+    "small_image_uri": "https://cards.scryfall.io/small/front/e/1/e18748ce-e52e-4cd1-89d4-cd2578a0d574.jpg?1730491238",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/e/1/e18748ce-e52e-4cd1-89d4-cd2578a0d574.jpg?1730491238",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Woodland Cemetery",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/0/70f2ded4-ddc1-4a16-b967-92891995b2e8.jpg?1726285590",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/0/70f2ded4-ddc1-4a16-b967-92891995b2e8.jpg?1726285590",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Command Tower",
+    "small_image_uri": "https://cards.scryfall.io/small/front/1/2/129d1bbd-83ad-4953-bf6d-b55989b2529c.jpg?1733640092",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/1/2/129d1bbd-83ad-4953-bf6d-b55989b2529c.jpg?1733640092",
+    "cmc": 0,
+    "type_line": "Land"
+  },
+  {
+    "name": "Feed the Swarm",
+    "small_image_uri": "https://cards.scryfall.io/small/front/e/6/e66d4541-160c-4137-98e7-0eaa692c7d7a.jpg?1730572716",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/e/6/e66d4541-160c-4137-98e7-0eaa692c7d7a.jpg?1730572716",
+    "cmc": 2,
+    "type_line": "Sorcery"
+  },
+  {
+    "name": "Silent-Blade Oni",
+    "small_image_uri": "https://cards.scryfall.io/small/front/7/a/7ae71886-9e93-4d1c-b8f7-da7aafa83cf9.jpg?1712354778",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/7/a/7ae71886-9e93-4d1c-b8f7-da7aafa83cf9.jpg?1712354778",
+    "cmc": 7,
+    "type_line": "Creature — Demon Ninja"
+  },
+  {
+    "name": "Mind's Dilation",
+    "small_image_uri": "https://cards.scryfall.io/small/front/4/f/4f2980ba-2468-4a36-afdb-87e6567797a9.jpg?1712354158",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/4/f/4f2980ba-2468-4a36-afdb-87e6567797a9.jpg?1712354158",
+    "cmc": 7,
+    "type_line": "Enchantment"
+  },
+  {
+    "name": "Phyrexian Arena",
+    "small_image_uri": "https://cards.scryfall.io/small/front/0/7/0784b6f0-9ebf-43d2-ba0f-a6bc93ba0c48.jpg?1730489269",
+    "normal_image_uri": "https://cards.scryfall.io/normal/front/0/7/0784b6f0-9ebf-43d2-ba0f-a6bc93ba0c48.jpg?1730489269",
+    "cmc": 3,
+    "type_line": "Enchantment"
+  }
+]
