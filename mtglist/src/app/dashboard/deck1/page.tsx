@@ -1,6 +1,8 @@
-import CardWrapper from "@/app/ui/cards"
+import CardWrapper from "@/app/ui/cards";
 import EditBanner from "@/app/ui/editbanner";
-import { fetchDeck, fetchCardsInDeck } from "@/app/lib/data"
+import CardListDisplay from "@/app/ui/cardlistdisplay";
+import CardDisplay from "@/app/ui/carddisplay";
+import { fetchDeck, fetchCardsInDeck } from "@/app/lib/data";
 
 export default async function Page() {
 
@@ -11,6 +13,11 @@ export default async function Page() {
         <div>
             <EditBanner></EditBanner>
             <CardWrapper></CardWrapper>
+            <div className="flex py-4 gap-4">
+                <CardListDisplay></CardListDisplay>
+                <CardDisplay></CardDisplay>
+            </div>
+
         </div>
     )
 }
