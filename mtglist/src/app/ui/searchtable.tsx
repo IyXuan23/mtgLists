@@ -5,8 +5,7 @@ export default async function SearchTable({
     query, currentPage} : {query: string, currentPage: number}) {
 
     const cards = await fetchSearchedCards(query, currentPage);
-    console.log(cards);
-
+    
     assert(cards.length <= 7);
 
     return(
