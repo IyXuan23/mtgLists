@@ -30,6 +30,11 @@ export async function fetchSearchedCards(query: string, currentPage: number) {
     const offset = (currentPage - 1) * ITEMS_PER_PAGE;
 
     try {
+
+        if (query=='') {
+            return [];
+        }
+
         const searchedCards = await sql<Card>
         `SELECT * 
         FROM cards
@@ -46,6 +51,10 @@ export async function fetchSearchedCards(query: string, currentPage: number) {
 
 export async function fetchAllSearchedCards(query: string) {
     try {
+
+        if (query=='') {
+            return 1;
+        }
         const count = await sql`SELECT COUNT(*)
         FROM cards
         WHERE cards.card_name ILIKE ${`%${query}%`}`;

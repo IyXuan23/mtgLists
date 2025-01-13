@@ -14,7 +14,7 @@ export default async function SearchTable({
             {cards.map((card) => {
                 const cardName = card.card_name;
                 return (
-                    <button key={cardName} className="bg-gray-400/20 rounded-md p-2 text-left shadow-white/10 hover:bg-blue-400/10">
+                    <button key={cardName} className="bg-gray-400/20 rounded-md p-2 text-left hover:bg-blue-400/10">
                         {cardName}
                     </button>
                 )
