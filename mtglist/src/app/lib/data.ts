@@ -43,3 +43,18 @@ export async function fetchSearchedCards(query: string, currentPage: number) {
     }
 
 }
+
+export async function fetchAllSearchedCards(query: string) {
+    try {
+        const count = await sql`SELECT COUNT(*)
+        FROM cards
+        WHERE cards.card_name ILIKE ${`%${query}%`}`;
+
+        //count is an array with 1 item, the number of rows
+        const totalPages = Math.ceil(Number(count.rows[0].count) / ITEMS_PER_PAGE);
+        return totalPages
+    } catch (error) {
+        console.error('Database Error:', error);
+        throw new Error('Failed to fetch total number of Cards.');
+    }
+}
