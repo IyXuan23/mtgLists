@@ -7,7 +7,8 @@ import { fetchDeck, fetchCardsInDeck } from "@/app/lib/data";
 export default async function Page() {
 
     const currDeck = await fetchDeck('Gonti, Deck 1');
-    const cardsInDeck = await fetchCardsInDeck(currDeck.deck_id);
+    //commented out currently in order to facilitate compilation, will use later on
+    //const cardsInDeck = await fetchCardsInDeck(currDeck.deck_id);
 
     return (
         <div>
