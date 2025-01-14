@@ -125,7 +125,7 @@ async function fetchCardAndSave(cardNames: string[]) {
 
     const allCardData = []
 
-    for (let cardName of cardNames) {
+    for (const cardName of cardNames) {
 
         const res = await fetch(`https://api.scryfall.com/cards/named?fuzzy=${cardName}`);
 
